@@ -7,3 +7,14 @@ It's not meant to be a finished program, it is only a help for people who want t
 
 If someone should be interested in more details or maybe needs a more advanced program, contact me ( o0Sky.Net0@gmail.com ), i will try to reply asap.
 ####How to use it ?
+**You need:**
+- Python 2.7
+- Firefox
+
+**And these libs:**
+- BeautifulSoup4
+- Selenium
+
+I recommend installing these with "pip". (Google "python pip" if you have no idea what this is)
+
+*Yes, I know this is a pretty "hacky" solution, but it is more meant to be an idea on how you could possibly solve the problem.*
